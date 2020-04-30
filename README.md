@@ -1,1 +1,3 @@
 # MoGo
+
+Simple layout
